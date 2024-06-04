@@ -1,8 +1,29 @@
-**Bem vindo ao meu perfil**
+**Vitor Hugo Gomes de Andrade**
 
-meu nome é Vitor Hugo
+Brasileiro,solteiro,16 anos
+Bairro:Jardim Califórnia
+Rua: Av. Antonio Bernardino Pereira de Lima/ número: 1313
+Telefone: ( 14 ) 99680-4589 
+E-mail: vitor110312@gmail.com
 
-- estou cursando o alura
-- utiliso esse espaço para criar, organizar e campartilhar meus projetos
+**OBJETIVO**
+cargo: administrador de finanças
 
-  <img src="https://media1.tenor.com/m/BkZl67YmYLkAAAAC/archie.gif" alt="Archie GIF - Archie GIFs"/>![image](https://github.com/vitK4/vitorHugoo/assets/171607039/0f06c790-7c62-4482-857c-7c5224be9ad6)
+**FORMAÇÃO**
+cursando o ensino médio
+
+**EXPERIÊNCIA PROFISSIONAL**
+2022-2023
+cargo: babá & lecionador.
+principais atividades: buscava a criança na creche, auxiliava nos deveres de casa, ensinava a ler e escrever.
+
+QUALIFICAÇÃO E ATIVIDADES COMPLEMENTARES 
+Curso de Cultura e Extensão MERGULHO NA CIÊNCIA
+(24 de julho e 30 de setembro de 2021) 
+Cursos Alura // Projetos de Programação 
+(17 de fevereiro... sigo programando)
+
+INFORMAÇÕES ADICIONAIS
+…
+
+
